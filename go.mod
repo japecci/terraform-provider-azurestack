@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-azurestack
+module github.com/japecci/terraform-provider-azurestack
 
 go 1.18
 
